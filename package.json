@@ -1,0 +1,33 @@
+{
+  "name": "sqlite3-for-electron",
+  "version": "0.0.1",
+  "description": "sqlite3 module for electron, make things much easier.",
+  "main": "./lib/sqlite3",
+  "author": {
+    "name": "cuixiping",
+    "url": "https://github.com/cuixiping"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/cuixiping/sqlite3-for-electron",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cuixiping/sqlite3-for-electron.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cuixiping/sqlite3-for-electron/issues"
+  },
+  "contributors": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "electron",
+    "sqlite3",
+    "sqlite"
+  ],
+  "scripts": {
+    "test": "echo %npm_package_name% %npm_package_version% && echo %npm_package_homepage%"
+  }
+}
