@@ -1,5 +1,5 @@
 {
-  "name": "sqlite3-for-electron",
+  "name": "sqlite3",
   "version": "0.0.1",
   "description": "sqlite3 module for electron, make things much easier.",
   "main": "./lib/sqlite3",
