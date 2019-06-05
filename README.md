@@ -8,7 +8,7 @@ sqlite3 module for electron, make things much easier.
 目前已预编译好的版本：
 
 | Node环境 | 平台 | 架构 |
-| -------- |:----:|:架构:|
+| -------- |:----:|:----:|
 | electron 4.1.x | win32 | ia32 |
 | electron 4.1.x | win32 | x64 |
 | electron 4.2.x | win32 | ia32 |
