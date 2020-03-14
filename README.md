@@ -13,5 +13,15 @@ sqlite3 module for electron, make things much easier.
 | electron 4.1.x | win32 | x64 |
 | electron 4.2.x | win32 | ia32 |
 | electron 4.2.x | win32 | x64 |
+| electron 5.0.x | win32 | ia32 |
+| electron 5.0.x | win32 | x64 |
+| electron 6.0.x | win32 | ia32 |
+| electron 6.0.x | win32 | x64 |
+| electron 6.1.x | win32 | ia32 |
+| electron 6.1.x | win32 | x64 |
+| electron 7.0.x | win32 | ia32 |
+| electron 7.0.x | win32 | x64 |
+| electron 7.1.x | win32 | ia32 |
+| electron 7.1.x | win32 | x64 |
 | node modules v57 | win32 | x64 |
 | node modules v64 | win32 | x64 |
